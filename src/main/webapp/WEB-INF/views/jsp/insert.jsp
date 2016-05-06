@@ -54,7 +54,7 @@
                 <table class="table">
                     <tr>
                         <td>
-                            <p class="text-center">version</p>
+                            <p class="text-center">titre</p>
                             <input required class="form-control" type="text" name="titreProjet" placeholder="titre"/>
                         </td>
                         <td>
