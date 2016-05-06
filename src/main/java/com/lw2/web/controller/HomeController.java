@@ -129,6 +129,7 @@ public class HomeController {
         }
 
         ModelAndView model = new ModelAndView();
+        model.setViewName("resume");
 
         try {
             StringWriter sw = new StringWriter();
